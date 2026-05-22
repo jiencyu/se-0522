@@ -1,4 +1,5 @@
-from calculate import add_func 
+from calculate import add_func
+
 
 def test_add_func():
     assert add_func(1, 2) == 3
